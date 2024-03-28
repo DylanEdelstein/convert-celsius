@@ -1,0 +1,5 @@
+
+
+convertToCelsius()
+crateMessage()
+rand()
